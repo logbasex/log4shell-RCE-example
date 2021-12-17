@@ -1,0 +1,4 @@
+rootProject.name = 'log4shell-RCE-example'
+include 'vulnerable-app'
+include 'ldap-server'
+
